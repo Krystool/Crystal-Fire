@@ -15,3 +15,4 @@ The Chair of the Board shall ensure, in collaboration with the Administrator, th
 He/She detains the following powers:
 * Ensure that BoT members are also fulfilling their duties as O5.
 * Controls and send to Arbitration Committee any possible unlawful/overstepping regulation for review.
+* Set new BoT members.
